@@ -1,3 +1,4 @@
+udpates
 1. create folder >  create virtual environment via the terminal under the folder..
 >>  py -m venv name-of-the-environment
 2. install libraries manually via pip install in terminal or have it under .txt file
